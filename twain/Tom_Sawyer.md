@@ -9,14 +9,14 @@ By Mark Twain
 Contents
 --------
 
-[CHAPTER I](#chapter-I). Y-o-u-u Tom-Aunt Polly Decides Upon her Duty--Tom Practices
-Music--The Challenge--A Private Entrance
+[CHAPTER I. Y-o-u-u Tom-Aunt Polly Decides Upon her Duty--Tom Practices
+Music--The Challenge--A Private Entrance](#chapter-i)
 
-CHAPTER II. Strong Temptations--Strategic Movements--The Innocents
-Beguiled
+[CHAPTER II. Strong Temptations--Strategic Movements--The Innocents
+Beguiled](#chapter-ii)
 
-CHAPTER III. Tom as a General--Triumph and Reward--Dismal
-Felicity--Commission and Omission
+[CHAPTER III. Tom as a General--Triumph and Reward--Dismal
+Felicity--Commission and Omission](#chapter-iii)
 
 CHAPTER IV. Mental Acrobatics--Attending Sunday--School--The
 Superintendent--"Showing off"--Tom Lionized
