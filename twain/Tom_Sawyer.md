@@ -1,13 +1,13 @@
-THE ADVENTURES OF TOM SAWYER
+The Adventures of Tom Sawyer
+============================
 
 By Mark Twain
-
 (Samuel Langhorne Clemens)
 
 
 
-
-CONTENTS
+Contents
+--------
 
 CHAPTER I. Y-o-u-u Tom-Aunt Polly Decides Upon her Duty--Tom Practices
 Music--The Challenge--A Private Entrance
@@ -101,334 +101,8 @@ CHAPTER XXXV. A New Order of Things--Poor Huck--New Adventures Planned
 
 
 
-ILLUSTRATIONS
 
-Tom Sawyer
-
-Tom at Home
-
-Aunt Polly Beguiled
-
-A Good Opportunity
-
-Who's Afraid
-
-Late Home
-
-Jim
-
-'Tendin' to Business
-
-Ain't that Work?
-
-Cat and Toys
-
-Amusement
-
-Becky Thatcher
-
-Paying Off
-
-After the Battle
-
-"Showing Off"
-
-Not Amiss
-
-Mary
-
-Tom Contemplating
-
-Dampened Ardor
-
-Youth
-
-Boyhood
-
-Using the "Barlow"
-
-The Church
-
-Necessities
-
-Tom as a Sunday-School Hero
-
-The Prize
-
-At Church
-
-The Model Boy
-
-The Church Choir
-
-A Side Show
-
-Result of Playing in Church
-
-The Pinch-Bug
-
-Sid
-
-Dentistry
-
-Huckleberry Finn
-
-Mother Hopkins
-
-Result of Tom's Truthfulness
-
-Tom as an Artist
-
-Interrupted Courtship
-
-The Master
-
-Vain Pleading
-
-Tail Piece
-
-The Grave in the Woods
-
-Tom Meditates
-
-Robin Hood and his Foe
-
-Death of Robin Hood
-
-Midnight
-
-Tom's Mode of Egress
-
-Tom's Effort at Prayer
-
-Muff Potter Outwitted
-
-The Graveyard
-
-Forewarnings
-
-Disturbing Muff's Sleep
-
-Tom's Talk with his Aunt
-
-Muff Potter
-
-A Suspicious Incident
-
-Injun Joe's two Victims
-
-In the Coils
-
-Peter
-
-Aunt Polly seeks Information
-
-A General Good Time
-
-Demoralized
-
-Joe Harper
-
-On Board Their First Prize
-
-The Pirates Ashore
-
-Wild Life
-
-The Pirate's Bath
-
-The Pleasant Stroll
-
-The Search for the Drowned
-
-The Mysterious Writing
-
-River View
-
-What Tom Saw
-
-Tom Swims the River
-
-Taking Lessons
-
-The Pirates' Egg Market
-
-Tom Looking for Joe's Knife
-
-The Thunder Storm
-
-Terrible Slaughter
-
-The Mourner
-
-Tom's Proudest Moment
-
-Amy Lawrence
-
-Tom tries to Remember
-
-The Hero
-
-A Flirtation
-
-Becky Retaliates
-
-A Sudden Frost
-
-Counter-irritation
-
-Aunt Polly
-
-Tom justified
-
-The Discovery
-
-Caught in the Act
-
-Tom Astonishes the School
-
-Literature
-
-Tom Declaims
-
-Examination Evening
-
-On Exhibition
-
-Prize Authors
-
-The Master's Dilemma
-
-The School House
-
-The Cadet
-
-Happy for Two Days
-
-Enjoying the Vacation
-
-The Stolen Melons
-
-The Judge
-
-Visiting the Prisoner
-
-Tom Swears
-
-The Court Room
-
-The Detective
-
-Tom Dreams
-
-The Treasure
-
-The Private Conference
-
-A King; Poor Fellow!
-
-Business
-
-The Ha'nted House
-
-Injun Joe
-
-The Greatest and Best
-
-Hidden Treasures Unearthed
-
-The Boy's Salvation
-
-Room No. 2
-
-The Next Day's Conference
-
-Treasures
-
-Uncle Jake
-
-Buck at Home
-
-The Haunted Room
-
-"Run for Your Life"
-
-McDougal's Cave
-
-Inside the Cave
-
-Huck on Duty
-
-A Rousing Act
-
-Tail Piece
-
-The Welchman
-
-Result of a Sneeze
-
-Cornered
-
-Alarming Discoveries
-
-Tom and Becky stir up the Town
-
-Tom's Marks
-
-Huck Questions the Widow
-
-Vampires
-
-Wonders of the Cave
-
-Attacked by Natives
-
-Despair
-
-The Wedding Cake
-
-A New Terror
-
-Daylight
-
-"Turn Out" to Receive Tom and Becky
-
-The Escape from the Cave
-
-Fate of the Ragged Man
-
-The Treasures Found
-
-Caught at Last
-
-Drop after Drop
-
-Having a Good Time
-
-A Business Trip
-
-"Got it at Last!"
-
-Tail Piece
-
-Widow Douglas
-
-Tom Backs his Statement
-
-Tail Piece
-
-Huck Transformed
-
-Comfortable Once More
-
-High up in Society
-
-Contentment
-
-
-
-
-PREFACE
+### PREFACE
 
 Most of the adventures recorded in this book really occurred; one or two
 were experiences of my own, the rest those of boys who were schoolmates
@@ -453,7 +127,7 @@ HARTFORD, 1876.
 
 
 
-CHAPTER I
+### CHAPTER I
 
 "TOM!"
 
@@ -807,7 +481,7 @@ firmness.
 
 
 
-CHAPTER II
+### CHAPTER II
 
 SATURDAY morning was come, and all the summer world was bright and
 fresh, and brimming with life. There was a song in every heart; and if
@@ -1029,7 +703,7 @@ report.
 
 
 
-CHAPTER III
+### CHAPTER III
 
 TOM presented himself before Aunt Polly, who was sitting by an
 open window in a pleasant rearward apartment, which was bedroom,
@@ -1248,7 +922,7 @@ note of the omission.
 
 
 
-CHAPTER IV
+### CHAPTER IV
 
 THE sun rose upon a tranquil world, and beamed down upon the peaceful
 village like a benediction. Breakfast over, Aunt Polly had family
@@ -1613,7 +1287,7 @@ Let us draw the curtain of charity over the rest of the scene.
 
 
 
-CHAPTER V
+### CHAPTER V
 
 ABOUT half-past ten the cracked bell of the small church began to ring,
 and presently the people began to gather for the morning sermon. The
@@ -1786,7 +1460,7 @@ him to carry it off.
 
 
 
-CHAPTER VI
+### CHAPTER VI
 
 MONDAY morning found Tom Sawyer miserable. Monday morning always found
 him so--because it began another week's slow suffering in school. He
@@ -2296,7 +1970,7 @@ ostentation for months.
 
 
 
-CHAPTER VII
+### CHAPTER VII
 
 THE harder Tom tried to fasten his mind on his book, the more his ideas
 wandered. So at last, with a sigh and a yawn, he gave it up. It seemed
@@ -2559,7 +2233,7 @@ her to exchange sorrows with.
 
 
 
-CHAPTER VIII
+### CHAPTER VIII
 
 TOM dodged hither and thither through lanes until he was well out of the
 track of returning scholars, and then fell into a moody jog. He crossed
@@ -2752,7 +2426,7 @@ President of the United States forever.
 
 
 
-CHAPTER IX
+### CHAPTER IX
 
 AT half-past nine, that night, Tom and Sid were sent to bed, as usual.
 They said their prayers, and Sid was soon asleep. Tom lay awake and
@@ -3027,7 +2701,7 @@ moon's. The stillness was complete again, too.
 
 
 
-CHAPTER X
+### CHAPTER X
 
 THE two boys flew on and on, toward the village, speechless with
 horror. They glanced backward over their shoulders from time to time,
@@ -3303,7 +2977,7 @@ This final feather broke the camel's back.
 
 
 
-CHAPTER XI
+### CHAPTER XI
 
 CLOSE upon the hour of noon the whole village was suddenly electrified
 with the ghastly news. No need of the as yet un-dreamed-of telegraph;
@@ -3481,7 +3155,7 @@ the courts at present.
 
 
 
-CHAPTER XII
+### CHAPTER XII
 
 ONE of the reasons why Tom's mind had drifted away from its secret
 troubles was, that it had found a new and weighty matter to interest
@@ -3665,7 +3339,7 @@ crestfallen.
 
 
 
-CHAPTER XIII
+### CHAPTER XIII
 
 TOM'S mind was made up now. He was gloomy and desperate. He was a
 forsaken, friendless boy, he said; nobody loved him; when they found out
@@ -3954,7 +3628,7 @@ inconsistent pirates fell peacefully to sleep.
 
 
 
-CHAPTER XIV
+### CHAPTER XIV
 
 WHEN Tom awoke in the morning, he wondered where he was. He sat up and
 rubbed his eyes and looked around. Then he comprehended. It was the cool
@@ -4165,7 +3839,7 @@ straightway broke into a keen run in the direction of the sandbar.
 
 
 
-CHAPTER XV
+### CHAPTER XV
 
 A few minutes later Tom was in the shoal water of the bar, wading toward
 the Illinois shore. Before the depth reached his middle he was halfway
@@ -4333,7 +4007,7 @@ other pirates got ready to fish and explore.
 
 
 
-CHAPTER XVI
+### CHAPTER XVI
 
 AFTER dinner all the gang turned out to hunt for turtle eggs on the bar.
 They went about poking sticks into the sand, and when they found a soft
@@ -4679,7 +4353,7 @@ present.
 
 
 
-CHAPTER XVII
+### CHAPTER XVII
 
 BUT there was no hilarity in the little town that same tranquil Saturday
 afternoon. The Harpers, and Aunt Polly's family, were being put into
@@ -4802,7 +4476,7 @@ expressed the most gratefulness to God and affection for himself.
 
 
 
-CHAPTER XVIII
+### CHAPTER XVIII
 
 THAT was Tom's great secret--the scheme to return home with his brother
 pirates and attend their own funerals. They had paddled over to the
@@ -5154,7 +4828,7 @@ account, and to hate him forever, into the bargain.
 
 
 
-CHAPTER XIX
+### CHAPTER XIX
 
 TOM arrived at home in a dreary mood, and the first thing his aunt said
 to him showed him that he had brought his sorrows to an unpromising
@@ -5262,7 +4936,7 @@ he'd committed a million sins!"
 
 
 
-CHAPTER XX
+### CHAPTER XX
 
 THERE was something about Aunt Polly's manner, when she kissed Tom, that
 swept away his low spirits and made him lighthearted and happy again. He
@@ -5444,7 +5118,7 @@ lingering dreamily in his ear--
 
 
 
-CHAPTER XXI
+### CHAPTER XXI
 
 VACATION was approaching. The schoolmaster, always severe, grew severer
 and more exacting than ever, for he wanted the school to make a good
@@ -5663,7 +5337,7 @@ pattern, and hence are much happier than any mere imitations could be.
 
 
 
-CHAPTER XXII
+### CHAPTER XXII
 
 TOM joined the new order of Cadets of Temperance, being attracted by the
 showy character of their "regalia." He promised to abstain from smoking,
@@ -5770,7 +5444,7 @@ stolen melon. Poor lads! they--like Tom--had suffered a relapse.
 
 
 
-CHAPTER XXIII
+### CHAPTER XXIII
 
 AT last the sleepy atmosphere was stirred--and vigorously: the murder
 trial came on in the court. It became the absorbing topic of village
@@ -6038,7 +5712,7 @@ way through all opposers, and was gone!
 
 
 
-CHAPTER XXIV
+### CHAPTER XXIV
 
 TOM was a glittering hero once more--the pet of the old, the envy of the
 young. His name even went into immortal print, for the village paper
@@ -6085,7 +5759,7 @@ weight of apprehension.
 
 
 
-CHAPTER XXV
+### CHAPTER XXV
 
 THERE comes a time in every rightly-constructed boy's life when he has
 a raging desire to go somewhere and dig for hidden treasure. This desire
@@ -6413,7 +6087,7 @@ adorned the rearward side of Cardiff Hill.
 
 
 
-CHAPTER XVI
+### CHAPTER XVI
 
 ABOUT noon the next day the boys arrived at the dead tree; they had come
 for their tools. Tom was impatient to go to the haunted house; Huck was
@@ -6762,7 +6436,7 @@ would be a palpable improvement, he thought.
 
 
 
-CHAPTER XXVII
+### CHAPTER XXVII
 
 THE adventure of the day mightily tormented Tom's dreams that night.
 Four times he had his hands on that rich treasure and four times
@@ -6885,7 +6559,7 @@ out he couldn't get his revenge, and be going right after that money."
 
 
 
-CHAPTER XXVIII
+### CHAPTER XXVIII
 
 THAT night Tom and Huck were ready for their adventure. They hung about
 the neighborhood of the tavern until after nine, one watching the alley
@@ -7019,7 +6693,7 @@ just skip right around and maow."
 
 
 
-CHAPTER XXIX
+### CHAPTER XXIX
 
 THE first thing Tom heard on Friday morning was a glad piece of
 news--Judge Thatcher's family had come back to town the night before.
@@ -7290,7 +6964,7 @@ fast as his legs could carry him.
 
 
 
-CHAPTER XXX
+### CHAPTER XXX
 
 AS the earliest suspicion of dawn appeared on Sunday morning, Huck came
 groping up the hill and rapped gently at the old Welshman's door. The
@@ -7649,7 +7323,7 @@ enough, or strength enough, either, to go on searching."
 
 
 
-CHAPTER XXXI
+### CHAPTER XXXI
 
 NOW to return to Tom and Becky's share in the picnic. They tripped along
 the murky aisles with the rest of the company, visiting the familiar
@@ -7989,7 +7663,7 @@ bodings of coming doom.
 
 
 
-CHAPTER XXXII
+### CHAPTER XXXII
 
 TUESDAY afternoon came, and waned to the twilight. The village of St.
 Petersburg still mourned. The lost children had not been found. Public
@@ -8098,7 +7772,7 @@ The water was brought and thrown into Tom's face.
 
 
 
-CHAPTER XXXIII
+### CHAPTER XXXIII
 
 WITHIN a few minutes the news had spread, and a dozen skiff-loads of
 men were on their way to McDougal's cave, and the ferryboat, well filled
@@ -8515,7 +8189,7 @@ Then she left.
 
 
 
-CHAPTER XXXIV
+### CHAPTER XXXIV
 
 HUCK said: "Tom, we can slope, if we can find a rope. The window ain't
 high from the ground."
@@ -8631,7 +8305,7 @@ more than that in property.
 
 
 
-CHAPTER XXXV
+### CHAPTER XXXV
 
 THE reader may rest satisfied that Tom's and Huck's windfall made a
 mighty stir in the poor little village of St. Petersburg. So vast a
@@ -8817,7 +8491,7 @@ pirating. I'll stick to the widder till I rot, Tom; and if I git to be
 a reg'lar ripper of a robber, and everybody talking 'bout it, I reckon
 she'll be proud she snaked me in out of the wet."
 
-CONCLUSION
+### CONCLUSION
 
 SO endeth this chronicle. It being strictly a history of a _boy_, it
 must stop here; the story could not go much further without becoming the
