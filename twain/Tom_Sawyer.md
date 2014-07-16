@@ -9,7 +9,7 @@ By Mark Twain
 Contents
 --------
 
-CHAPTER I. Y-o-u-u Tom-Aunt Polly Decides Upon her Duty--Tom Practices
+[CHAPTER I](#chapter-I). Y-o-u-u Tom-Aunt Polly Decides Upon her Duty--Tom Practices
 Music--The Challenge--A Private Entrance
 
 CHAPTER II. Strong Temptations--Strategic Movements--The Innocents
