@@ -58,45 +58,45 @@ Thatcher Overshadowed--Tom Becomes Jealous--Black Revenge
 
 [CHAPTER XX.](#chapter-xx) Becky in a Dilemma--Tom's Nobility Asserts Itself
 
-CHAPTER XXI. Youthful Eloquence--Compositions by the Young Ladies--A
+[CHAPTER XXI.](#chapter-xxi) Youthful Eloquence--Compositions by the Young Ladies--A
 Lengthy Vision--The Boy's Vengeance Satisfied
 
-CHAPTER XXII. Tom's Confidence Betrayed--Expects Signal Punishment
+[CHAPTER XXII.](#chapter-xxii) Tom's Confidence Betrayed--Expects Signal Punishment
 
-CHAPTER XXIII. Old Muff's Friends--Muff Potter in Court--Muff Potter
+[CHAPTER XXIII.](#chapter-xxiii) Old Muff's Friends--Muff Potter in Court--Muff Potter
 Saved
 
-CHAPTER XXIV. Tom as the Village Hero--Days of Splendor and Nights of
+[CHAPTER XXIV.](#chapter-xxiv) Tom as the Village Hero--Days of Splendor and Nights of
 Horror--Pursuit of Injun Joe
 
-CHAPTER XXV. About Kings and Diamonds--Search for the Treasure--Dead
+[CHAPTER XXV.](#chapter-xxv) About Kings and Diamonds--Search for the Treasure--Dead
 People and Ghosts
 
-CHAPTER XXVI. The Haunted House--Sleepy Ghosts--A Box of Gold--Bitter Luck
+[CHAPTER XXVI.](#chapter-xxvi) The Haunted House--Sleepy Ghosts--A Box of Gold--Bitter Luck
 
-CHAPTER XXVII. Doubts to be Settled--The Young Detectives
+[CHAPTER XXVII.](#chapter-xxvii) Doubts to be Settled--The Young Detectives
 
-CHAPTER XXVIII. An Attempt at No. Two--Huck Mounts Guard
+[CHAPTER XXVIII.](#chapter-xxviii) An Attempt at No. Two--Huck Mounts Guard
 
-CHAPTER XXIX. The Pic-nic--Huck on Injun Joe's Track--The "Revenge"
+[CHAPTER XXIX.](#chapter-xxix) The Pic-nic--Huck on Injun Joe's Track--The "Revenge"
 Job--Aid for the Widow
 
-CHAPTER XXX. The Welchman Reports--Huck Under Fire--The Story Circulated
+[CHAPTER XXX.](#chapter-xxx) The Welchman Reports--Huck Under Fire--The Story Circulated
 --A New Sensation--Hope Giving Way to Despair
 
-CHAPTER XXXI. An Exploring Expedition--Trouble Commences--Lost in the
+[CHAPTER XXXI.](#chapter-xxxi) An Exploring Expedition--Trouble Commences--Lost in the
 Cave--Total Darkness--Found but not Saved
 
-CHAPTER XXXII. Tom tells the Story of their Escape--Tom's Enemy in Safe
+[CHAPTER XXXII.](#chapter-xxxii) Tom tells the Story of their Escape--Tom's Enemy in Safe
 Quarters
 
-CHAPTER XXXIII. The Fate of Injun Joe--Huck and Tom Compare Notes
+[CHAPTER XXXIII.](#chapter-xxxiii) The Fate of Injun Joe--Huck and Tom Compare Notes
 --An Expedition to the Cave--Protection Against Ghosts--"An Awful Snug
 Place"--A Reception at the Widow Douglas's
 
-CHAPTER XXXIV. Springing a Secret--Mr. Jones' Surprise a Failure
+[CHAPTER XXXIV.](#chapter-xxxiv) Springing a Secret--Mr. Jones' Surprise a Failure
 
-CHAPTER XXXV. A New Order of Things--Poor Huck--New Adventures Planned
+[CHAPTER XXXV.](#chapter-xxxv) A New Order of Things--Poor Huck--New Adventures Planned
 
 
 
