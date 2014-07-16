@@ -124,7 +124,7 @@ THE AUTHOR.
 
 HARTFORD, 1876.
 
-
+[Back to Table of Contents](#contents)
 
 
 ### CHAPTER I
@@ -479,7 +479,7 @@ Saturday holiday into captivity at hard labor became adamantine in its
 firmness.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER II
 
@@ -701,7 +701,7 @@ in his worldly circumstances, and then wended toward headquarters to
 report.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER III
 
@@ -920,7 +920,7 @@ Tom turned in without the added vexation of prayers, and Sid made mental
 note of the omission.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER IV
 
@@ -1285,7 +1285,7 @@ disciples were--"
 Let us draw the curtain of charity over the rest of the scene.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER V
 
@@ -1458,7 +1458,7 @@ should play with his pinchbug, but he did not think it was upright in
 him to carry it off.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER VI
 
@@ -1968,7 +1968,7 @@ up at the foot and yielded up the pewter medal which he had worn with
 ostentation for months.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER VII
 
@@ -2231,7 +2231,7 @@ of a long, dreary, aching afternoon, with none among the strangers about
 her to exchange sorrows with.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER VIII
 
@@ -2424,7 +2424,7 @@ They said they would rather be outlaws a year in Sherwood Forest than
 President of the United States forever.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER IX
 
@@ -2699,7 +2699,7 @@ lidless coffin, and the open grave were under no inspection but the
 moon's. The stillness was complete again, too.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER X
 
@@ -2975,7 +2975,7 @@ sigh followed, and his heart broke. It was his brass andiron knob!
 This final feather broke the camel's back.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XI
 
@@ -3153,7 +3153,7 @@ that preceded it; therefore it was deemed wisest not to try the case in
 the courts at present.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XII
 
@@ -3337,7 +3337,7 @@ Tom's cheeks burned. He gathered himself up and sneaked off, crushed and
 crestfallen.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XIII
 
@@ -3626,7 +3626,7 @@ crime of stealing. Then conscience granted a truce, and these curiously
 inconsistent pirates fell peacefully to sleep.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XIV
 
@@ -3837,7 +3837,7 @@ cautiously among the trees till he felt that he was out of hearing, and
 straightway broke into a keen run in the direction of the sandbar.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XV
 
@@ -4005,7 +4005,7 @@ Then Tom hid himself away in a shady nook to sleep till noon, and the
 other pirates got ready to fish and explore.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XVI
 
@@ -4351,7 +4351,7 @@ smoke and chatter and brag, since we have no further use for them at
 present.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XVII
 
@@ -4474,7 +4474,7 @@ moods--than he had earned before in a year; and he hardly knew which
 expressed the most gratefulness to God and affection for himself.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XVIII
 
@@ -4826,7 +4826,7 @@ She resolved to let him get whipped on the damaged spelling-book's
 account, and to hate him forever, into the bargain.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XIX
 
@@ -4934,7 +4934,7 @@ bark through flowing tears and saying: "I could forgive the boy, now, if
 he'd committed a million sins!"
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XX
 
@@ -5116,7 +5116,7 @@ lingering dreamily in his ear--
 "Tom, how _could_ you be so noble!"
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXI
 
@@ -5335,7 +5335,7 @@ Western Lady"--but they are exactly and precisely after the schoolgirl
 pattern, and hence are much happier than any mere imitations could be.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXII
 
@@ -5442,7 +5442,7 @@ victim, a bird. He found Joe Harper and Huck Finn up an alley eating a
 stolen melon. Poor lads! they--like Tom--had suffered a relapse.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXIII
 
@@ -5710,7 +5710,7 @@ Crash! Quick as lightning the halfbreed sprang for a window, tore his
 way through all opposers, and was gone!
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXIV
 
@@ -5757,7 +5757,7 @@ The slow days drifted on, and each left behind it a slightly lightened
 weight of apprehension.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXV
 
@@ -6434,7 +6434,7 @@ Very, very small comfort it was to Tom to be alone in danger! Company
 would be a palpable improvement, he thought.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXVII
 
@@ -6557,7 +6557,7 @@ out he couldn't get his revenge, and be going right after that money."
 "Now you're _talking_! Don't you ever weaken, Huck, and I won't."
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXVIII
 
@@ -6691,7 +6691,7 @@ come bothering around. Any time you see something's up, in the night,
 just skip right around and maow."
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXIX
 
@@ -6962,7 +6962,7 @@ Huck waited for no particulars. He sprang away and sped down the hill as
 fast as his legs could carry him.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXX
 
@@ -7321,7 +7321,7 @@ could find Tom Sawyer! Ah, there ain't many left, now, that's got hope
 enough, or strength enough, either, to go on searching."
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXXI
 
@@ -7661,7 +7661,7 @@ passages on his hands and knees, distressed with hunger and sick with
 bodings of coming doom.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXXII
 
@@ -7770,7 +7770,7 @@ The water was brought and thrown into Tom's face.
 "Oh, Judge, Injun Joe's in the cave!"
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXXIII
 
@@ -8187,7 +8187,7 @@ enough."
 Then she left.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXXIV
 
@@ -8303,7 +8303,7 @@ before, though several persons were there who were worth considerably
 more than that in property.
 
 
-
+[Back to Table of Contents](#contents)
 
 ### CHAPTER XXXV
 
@@ -8491,6 +8491,8 @@ pirating. I'll stick to the widder till I rot, Tom; and if I git to be
 a reg'lar ripper of a robber, and everybody talking 'bout it, I reckon
 she'll be proud she snaked me in out of the wet."
 
+[Back to Table of Contents](#contents)
+
 ### CONCLUSION
 
 SO endeth this chronicle. It being strictly a history of a _boy_, it
@@ -8505,3 +8507,4 @@ story of the younger ones again and see what sort of men and women they
 turned out to be; therefore it will be wisest not to reveal any of that
 part of their lives at present.
 
+[Back to Table of Contents](#contents)
