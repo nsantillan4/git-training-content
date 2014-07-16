@@ -9,54 +9,54 @@ By Mark Twain
 Contents
 --------
 
-[CHAPTER I. Y-o-u-u Tom-Aunt Polly Decides Upon her Duty--Tom Practices
-Music--The Challenge--A Private Entrance](#chapter-i)
+[CHAPTER I.](#chapter-i) Y-o-u-u Tom-Aunt Polly Decides Upon her Duty--Tom Practices
+Music--The Challenge--A Private Entrance
 
-[CHAPTER II. Strong Temptations--Strategic Movements--The Innocents
-Beguiled](#chapter-ii)
+[CHAPTER II.](#chapter-ii) Strong Temptations--Strategic Movements--The Innocents
+Beguiled
 
-[CHAPTER III. Tom as a General--Triumph and Reward--Dismal
-Felicity--Commission and Omission](#chapter-iii)
+[CHAPTER III.](#chapter-iii) Tom as a General--Triumph and Reward--Dismal
+Felicity--Commission and Omission
 
-CHAPTER IV. Mental Acrobatics--Attending Sunday--School--The
+[CHAPTER IV.](#chapter-iv) Mental Acrobatics--Attending Sunday--School--The
 Superintendent--"Showing off"--Tom Lionized
 
-CHAPTER V. A Useful Minister--In Church--The Climax
+[CHAPTER V.](#chapter-v) A Useful Minister--In Church--The Climax
 
-CHAPTER VI. Self-Examination--Dentistry--The Midnight Charm--Witches and
+[CHAPTER VI.](#chapter-vi) Self-Examination--Dentistry--The Midnight Charm--Witches and
 Devils--Cautious Approaches--Happy Hours
 
-CHAPTER VII. A Treaty Entered Into--Early Lessons--A Mistake Made
+[CHAPTER VII.](#chapter-vii) A Treaty Entered Into--Early Lessons--A Mistake Made
 
-CHAPTER VIII. Tom Decides on his Course--Old Scenes Re-enacted
+[CHAPTER VIII.](#chapter-viii) Tom Decides on his Course--Old Scenes Re-enacted
 
-CHAPTER IX. A Solemn Situation--Grave Subjects Introduced--Injun Joe
+[CHAPTER IX.](#chapter-ix) A Solemn Situation--Grave Subjects Introduced--Injun Joe
 Explains
 
-CHAPTER X. The Solemn Oath--Terror Brings Repentance--Mental Punishment
+[CHAPTER X.](#chapter-x) The Solemn Oath--Terror Brings Repentance--Mental Punishment
 
-CHAPTER XI. Muff Potter Comes Himself--Tom's Conscience at Work
+[CHAPTER XI.](#chapter-xi) Muff Potter Comes Himself--Tom's Conscience at Work
 
-CHAPTER XII. Tom Shows his Generosity--Aunt Polly Weakens
+[CHAPTER XII.](#chapter-xii) Tom Shows his Generosity--Aunt Polly Weakens
 
-CHAPTER XIII. The Young Pirates--Going to the Rendezvous--The Camp--Fire
+[CHAPTER XIII.](#chapter-xiii) The Young Pirates--Going to the Rendezvous--The Camp--Fire
 Talk
 
-CHAPTER XIV. Camp-Life--A Sensation--Tom Steals Away from Camp
+[CHAPTER XIV.](#chapter-xiv) Camp-Life--A Sensation--Tom Steals Away from Camp
 
-CHAPTER XV. Tom Reconnoiters--Learns the Situation--Reports at Camp
+[CHAPTER XV.](#chapter-xv) Tom Reconnoiters--Learns the Situation--Reports at Camp
 
-CHAPTER XVI. A Day's Amusements--Tom Reveals a Secret--The Pirates take a
+[CHAPTER XVI.](#chapter-xvi) A Day's Amusements--Tom Reveals a Secret--The Pirates take a
 Lesson--A Night Surprise--An Indian War
 
-CHAPTER XVII. Memories of the Lost Heroes--The Point in Tom's Secret
+[CHAPTER XVII.](#chapter-xvii) Memories of the Lost Heroes--The Point in Tom's Secret
 
-CHAPTER XVIII. Tom's Feelings Investigated--Wonderful Dream--Becky
+[CHAPTER XVIII.](#chapter-xviii) Tom's Feelings Investigated--Wonderful Dream--Becky
 Thatcher Overshadowed--Tom Becomes Jealous--Black Revenge
 
-CHAPTER XIX. Tom Tells the Truth
+[CHAPTER XIX.](#chapter-xix) Tom Tells the Truth
 
-CHAPTER XX. Becky in a Dilemma--Tom's Nobility Asserts Itself
+[CHAPTER XX.](#chapter-xx) Becky in a Dilemma--Tom's Nobility Asserts Itself
 
 CHAPTER XXI. Youthful Eloquence--Compositions by the Young Ladies--A
 Lengthy Vision--The Boy's Vengeance Satisfied
